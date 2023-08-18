@@ -1,3 +1,4 @@
+//dia 4 lição 2
 let nome=prompt("digite seu nome")
 let idade=parseInt(prompt("idade"))
 let carta=prompt("tem carta de motorista s=sim|n=não")
